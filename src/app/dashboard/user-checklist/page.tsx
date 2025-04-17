@@ -5,7 +5,7 @@ import { Check, Delete } from '@mui/icons-material'
 const page = () => {
   return (
     <Box display='flex' pt='110px' height='100vh'>
-        <Box width={200} bgcolor='pink' />
+        <Box width={200} bgcolor='#FFEFEF' />
         <Box display='flex' flexDirection='column' flexGrow={1}>
           <Box display='flex' flexDirection='column' gap={6} bgcolor='#fff' boxShadow='rgba(0, 0, 0, 0.16) 0px 1px 4px' m={4} p={4}>
             <Box display='flex' justifyContent='space-between'>
